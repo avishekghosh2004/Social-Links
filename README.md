@@ -16,8 +16,6 @@ A sleek and animated Linktree-style project built with **React + Vite**, featuri
 - 🧠 Clean, minimal UI with smooth transitions
 
 ---
-
-## Preview
 [Live Demo](https://social-links-phi-wheat.vercel.app/)
 ---
 
