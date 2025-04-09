@@ -18,7 +18,7 @@ A sleek and animated Linktree-style project built with **React + Vite**, featuri
 ---
 
 ## Preview
-[Live Demo](https://to-do-app-hazel-omega-77.vercel.app/)
+[Live Demo](https://social-links-phi-wheat.vercel.app/)
 ---
 
 ## 🛠️ Tech Stack
